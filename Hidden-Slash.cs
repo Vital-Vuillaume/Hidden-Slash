@@ -248,7 +248,7 @@ class Program
                 break;
             case "e":
                 Console.WriteLine (@"
-                Elephants
+                Elephant
         
                                           .' `'.__
                                          /      \ `'--,
